@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**silouani/silouani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some fun facts about myself! 
 
  🔭 I’m half Greek, half Serbian and i am pursing my master's degree at Pace. 
